@@ -1,0 +1,17 @@
+{
+  "name": "Hideaway Spring Resort",
+  "short_name": "Hideaway",
+  "description": "A quiet spring resort in Purok 6A, South Poblacion, Maramag, Bukidnon.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f5f0",
+  "theme_color": "#1c1a15",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
